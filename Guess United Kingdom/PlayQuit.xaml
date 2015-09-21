@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Guess_United_Kingdom.PlayQuit"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Guess_United_Kingdom"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Height="768" Source="Images/UKbackgroundImage.png" HorizontalAlignment="Center" Stretch="Fill" Width="1366" VerticalAlignment="Center"/>
+        <Image Height="165" Source="Images/Score.png" HorizontalAlignment="Center" Width="619" VerticalAlignment="Center" Margin="441,10,306,593"/>
+
+        <TextBlock x:Name="txScore" Text="0" Margin="586,198,600,449" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Black" Foreground="Red" TextAlignment="Center"/>
+        <TextBlock x:Name="txCongrats" Text="Congrats...You Won!" Margin="884,198,10,449" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Black" Foreground="Black" TextAlignment="Center" Visibility="Collapsed"/>
+        <TextBlock Text="Total Score:" Margin="272,198,805,427" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Black" Foreground="Black"/>
+        <Button x:Name="quit" Content="Quit Game" Margin="510,569,0,91" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Black" Foreground="Red" Width="308" Height="108" Click="quit_Click" />
+        <Button x:Name="playAgain" Content="Play Again" Margin="510,395,0,271" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Black" Foreground="Red" Width="308" Height="102" Click="playAgain_Click"/>
+    </Grid>
+</Page>

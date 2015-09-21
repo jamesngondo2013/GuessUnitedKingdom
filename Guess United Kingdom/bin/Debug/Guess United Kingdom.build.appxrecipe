@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>95c94260-8491-4c8c-af0a-1afdcbb53667</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\Guess United Kingdom.exe">
+      <PackagePath>Guess United Kingdom.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\About.xml">
+      <PackagePath>About.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\checkScores.png">
+      <PackagePath>Images\checkScores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\score.png">
+      <PackagePath>Images\score.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\UKbackground.png">
+      <PackagePath>Images\UKbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\UKbackground3.png">
+      <PackagePath>Images\UKbackground3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\UKbackground4.png">
+      <PackagePath>Images\UKbackground4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\UKbackground5.png">
+      <PackagePath>Images\UKbackground5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\Images\UKbackgroundImage.png">
+      <PackagePath>Images\UKbackgroundImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\Play.xbf">
+      <PackagePath>Play.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\PlayQuit.xbf">
+      <PackagePath>PlayQuit.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\Guess United Kingdom.xr.xml">
+      <PackagePath>Guess United Kingdom.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Guess United Kingdom\Guess United Kingdom\Guess United Kingdom\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
